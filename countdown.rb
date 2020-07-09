@@ -4,5 +4,5 @@ def countdown(number)
   int = 10
   while int < 10
   int -= 1
-  puts "#{number}"
+  puts "#{number} S"
 end
