@@ -9,4 +9,4 @@ def countdown
   end 
 end
 
-countdown(number)
+countdown
