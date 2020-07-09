@@ -14,11 +14,10 @@ end
 countdown(number)
 
 
-int = 20
 
-def countdown_with_sleep(int)
-  while int > 0
-    puts "#{int} SECOND(S)!"
+def countdown_with_sleep(number)
+  while number > 0
+    puts "#{number} SECOND(S)!"
     int -= 1
     sleep(1)
   end 
