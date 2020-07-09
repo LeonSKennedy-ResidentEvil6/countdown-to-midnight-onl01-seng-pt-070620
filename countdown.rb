@@ -14,7 +14,6 @@ end
 countdown(number)
 
 
-
 int = 20
 
 def countdown_with_sleep(int)
