@@ -2,5 +2,5 @@
 
 def countdown(int)
   int = 10
-  
+  while   
 end
